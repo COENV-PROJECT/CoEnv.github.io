@@ -10,9 +10,7 @@ locale                   : "en-US"
 title                    : "Complex Environmental Data and Modeling (CoEnv)"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "The project Complex Environmental Data and Modeling (CoEnv) proposes new statistical models that favor the integration of
-complex forms of spatial and spatio-temporal data, to solve data analytic issues in public health and environmental and ecological
-monitoring and management."
+description              : &description ""
 url                      : https://coenv-project.github.io/CoEnv.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
